@@ -5,3 +5,5 @@ while a <= 10:
         continue
     print(a)
     a = a + 1
+    
+print("추가된 부분")
